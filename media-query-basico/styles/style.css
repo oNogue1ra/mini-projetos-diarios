@@ -42,9 +42,14 @@ p {
     text-align: right;
 }
 
+#link {
+    display: flex;
+}
+
 a {
     color: black;
     text-decoration: none;
+    display: inline-block;
 }
 
 a:hover {
