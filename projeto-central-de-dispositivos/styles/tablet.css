@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+main {
+    width: 700px;
+    height: 600px;
+}
+
+img.mobile {display: none;}
+img.tablet {display: block;}
+img.desktop {display: none;}
+img.tv {display: none;}
+
+.mobile {display: none;}
+.tablet {display: block;}
+.desktop {display: none;}
+.tv {display: none;}

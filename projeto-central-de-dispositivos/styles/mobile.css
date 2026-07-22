@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+main {
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 10px;
+    width: 600px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+div#status {
+    font-size: 1.2em;
+    padding: 20px 10px;
+}
+
+div#resolução {
+    font-size: 1.2em;
+    padding: 20px 10px;
+}
+
+div#orientação {
+    font-size: 1.2em;
+    padding: 20px 10px;
+}
+
+
+img.mobile {display: block;}
+img.tablet {display: none;}
+img.desktop {display: none;}
+img.tv {display: none;}
+
+.mobile {display: block;}
+.tablet {display: none;}
+.desktop {display: none;}
+.tv {display: none;}
